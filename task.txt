@@ -1,0 +1,9 @@
+Crawler must go through several pages on a website and extract information into an excel or csv file. 
+
+Target website is http://www.cened.it/mappa_certificatore?p_p_id=EXT_B80_MALO_INSTANCE_FNBN&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=colonna-2&p_p_col_pos=1&p_p_col_count=2&tabs1=Ricerca%20per%20provincia%20e%20comune%20o%20per%20nominativo (script must go through all dropdown menu options)
+Detailed instructions attached (PDF file). 
+Excel template for scraper is copied inside PDF and will be provided once job is awarded.
+
+Deliverables:
+- completed excel file with all entries (several thousands)
+- script that we can run again autonomously
